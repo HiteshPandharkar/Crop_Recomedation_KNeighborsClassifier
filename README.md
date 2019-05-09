@@ -8,6 +8,7 @@
 ## FrontEnd
 - HTML
 - Bootstrap
+- Javascript
 
 ## BackEnd
 - Flask
